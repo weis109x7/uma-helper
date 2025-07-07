@@ -1,0 +1,3710 @@
+{
+    "103201": {
+        "ExpressionofConviction": {
+            "Top": "Stamina +20",
+            "Bot": "Speed +20"
+        },
+        "ObtainData": {
+            "Top": "Wisdom +20",
+            "Bot": "Power +20"
+        },
+        "TachyontheSpoiledChild": {
+            "Top": "Stamina +10\nGuts +10\n(random) Get Fast Learner status",
+            "Bot": "Wisdom +20\n(random) Get Fast Learner status"
+        },
+        "AtTachyonsPace": {
+            "Top": "Guts +10",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "TheStrongestCollaborator": {
+            "Top": "Energy -20\nStamina +15\nGuts +10",
+            "Bot": "Energy +5\nWisdom +5"
+        },
+        "ThePressureofJustice": {
+            "Top": "Wisdom +10\nSkill points +15",
+            "Bot": "Corner Adept \u25cb hint +1"
+        },
+        "HamburgerHelper": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "MedicineThatMakesYouFaster": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "TheSignificanceofResearch": {
+            "Top": "Wisdom +10",
+            "Bot": "Speed +10"
+        },
+        "NoShortcuts": {
+            "Top": "Guts +10",
+            "Mid": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "AGiftFromtheDarkSky": {
+            "Top": "Speed +5\nPower +5",
+            "Bot": "Guts +10"
+        },
+        "BodyModification": {
+            "Top": "Power +5\nWisdom +5",
+            "Bot": "Stamina +10"
+        },
+        "ReportAClearGaze": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101801": {
+        "FlowersforYou": {
+            "Top": "Wisdom +20",
+            "Bot": "Speed +20"
+        },
+        "ABeautifulStressReliefMethod": {
+            "Top": "Stamina +20",
+            "Bot": "Guts +20"
+        },
+        "Guidepost": {
+            "Top": "Speed +20\n(random) Get Hot Topic status",
+            "Bot": "Power +20\n(random) Get Hot Topic status"
+        },
+        "EmpressandMonarch": {
+            "Top": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "OperationFlowerbed": {
+            "Top": "Energy +5\nWisdom +5",
+            "Bot": "Energy -10\nSpeed +10\nPower +10"
+        },
+        "EmpressandEmperor": {
+            "Top": "Homestretch Haste hint +1",
+            "Bot": "Mood +1\nSkill points +15"
+        },
+        "SeizeHer": {
+            "Top": "Energy +10",
+            "Bot": "Energy -10\nMood +1\nSpeed +10"
+        },
+        "TakeGoodCareofYourTail": {
+            "Top": "Energy +10",
+            "Bot": "Energy -10\nMood +1\nPower +10"
+        },
+        "SuggestionBoxofFreedom": {
+            "Top": "Energy +10",
+            "Bot": "Energy -10\nMood +1\nWisdom +10"
+        },
+        "ATasteofEffort": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "ALittleEncounter": {
+            "Top": "Wisdom +10",
+            "Bot": "Guts +10"
+        },
+        "SweetPotatoCake": {
+            "Top": "Power +10",
+            "Bot": "Stamina +10"
+        },
+        "ImprintedMemories": {
+            "Top": "Speed +10",
+            "Mid": "Power +10",
+            "Bot": "Stamina +10"
+        },
+        "ABlinkingLightMeansStop": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "SmolderingSilently": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "AftertheShukaShoReign": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100901": {
+        "TheBestPose": {
+            "Top": "Stamina +10\nPower +10",
+            "Bot": "Wisdom +20"
+        },
+        "TheWeightofRacewear": {
+            "Top": "Speed +20",
+            "Bot": "Guts +20"
+        },
+        "LookingGood": {
+            "Top": "Stamina +10\nWisdom +10\n(random) Get Hot Topic status",
+            "Bot": "Speed +10\nGuts +10\n(random) Get Hot Topic status"
+        },
+        "Her": {
+            "Top": "Power +5\nObjective race changed to Japanese Oaks",
+            "Bot": "Power +5\nObjective race changed to Tokyo Yushun (Japanese Derby)"
+        },
+        "RecommendedRestaurant": {
+            "Top": "Speed +5\nPower +5",
+            "Bot": "Guts +5\nMood +1"
+        },
+        "AdvicefromanOlderStudent": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "EnjoyingNumberOne": {
+            "Top": "Stamina +10\nSkill points +15",
+            "Bot": "Unyielding Spirit hint +1"
+        },
+        "CantLoseSightofNumberOne": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "AsaModelStudent": {
+            "Top": "Wisdom +10",
+            "Bot": "Skill points +30"
+        },
+        "JustaLittleMore": {
+            "Top": "Skill points +30",
+            "Bot": "Power +10"
+        },
+        "UndertheEveningStar": {
+            "Top": "Skill points +30",
+            "Mid": "Speed +5\nStamina +5",
+            "Bot": "Power +10"
+        },
+        "RainedOn": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "HowtoSpendaDayOff": {
+            "Top": "Energy +10",
+            "Bot": "Mood +1\nWisdom +5"
+        },
+        "AftertheTulipShoEmbracetheRage": {},
+        "AftertheTulipShoTickedOff": {},
+        "AftertheOkaShoFortheOakenPlaque": {},
+        "AftertheOkaShoStillOutofReach": {},
+        "TheJapaneseDerby": {},
+        "AftertheShukaShoObviously": {},
+        "AftertheShukaShoAchingLegs": {},
+        "AftertheTennoShoAutumnTheyHaventChanged": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101401": {
+        "DeterminationoftheWorldsStrongest": {
+            "Top": "Power +20",
+            "Bot": "Stamina +20"
+        },
+        "CactusFeast": {
+            "Top": "Speed +10\nStamina +10",
+            "Bot": "Wisdom +20"
+        },
+        "SongofCourage": {
+            "Top": "Power +20\n(random) Get Fast Learner status",
+            "Bot": "Speed +10\nPower +10\n(random) Get Fast Learner status"
+        },
+        "APersonalizedMask": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "SalsaRoja": {
+            "Top": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "GofortheExtraLargePizza": {
+            "Top": "Power +10\nSkill points +15",
+            "Bot": "Soft Step hint +1"
+        },
+        "HotandSpicy": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "TheWrestlerIAdmire": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "ShockingRetirement": {
+            "Top": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "RenewedResolve": {
+            "Top": "Guts +10",
+            "Mid": "Stamina +10",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "TheAcademyatNight": {
+            "Top": "Mood +1\nGuts +5",
+            "Bot": "Energy +10"
+        },
+        "FlowerLanguage": {
+            "Top": "Mood +1\nWisdom +5",
+            "Bot": "Energy +10"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100701": {
+        "TheRedoftheProtagonist": {
+            "Top": "Wisdom +20",
+            "Bot": "Guts +20"
+        },
+        "ADateGolshiStyle": {
+            "Top": "Stamina +20",
+            "Bot": "Power +20"
+        },
+        "ASuddenEpisodefromGolshisPast": {
+            "Top": "Stamina +10\nWisdom +10\n(random) Get Fast Learner status",
+            "Bot": "Speed +20\n(random) Get Fast Learner status"
+        },
+        "PairDiscountRepeatOffender": {
+            "Top": "Guts +10",
+            "Bot": "Stamina +10"
+        },
+        "WhichDidYouLose": {
+            "Top": "Energy -10\nPower +20",
+            "Bot": "Speed +10"
+        },
+        "MyPartTimeJobIsCrazy": {
+            "Top": "Stamina +10\nSkill points +15",
+            "Bot": "Hanshin Racecourse \u25cb hint +1"
+        },
+        "TheDayAfterVoicesHoarse": {
+            "Top": "Stamina +10",
+            "Bot": "Guts +10"
+        },
+        "ThisOnesForKeeps": {
+            "Top": "Energy +10",
+            "Bot": "Randomly either\nSkill points +60\nNon-Standard Distance \u25cb hint +1\nor\nSkill points +15\nGet Slacker status"
+        },
+        "SummerCampYearEnds": {},
+        "KillerAppetite": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "LegendoftheLeftPinky": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "HelloFromAboutBillionYearsAgo": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "AndThenShe": {
+            "Top": "Speed +10",
+            "Mid": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "ALovelyPlace": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "NighttimeParkVisit": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "AftertheTakarazukaKinenKeyword": {
+            "Top": "All stats +3\nMood +1\nSkill points +45\nThis card bond +4",
+            "Bot": "All stats +3\nMood +1\nSkill points +45\n(random) Get Charming \u25cb status\n(random) Obtain Gatekept skill\nThis card bond +4"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Stamina +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101101": {
+        "HiddenMeaning": {
+            "Top": "Stamina +10\nGuts +10",
+            "Bot": "Power +20"
+        },
+        "Principles": {
+            "Top": "Speed +20",
+            "Bot": "Stamina +20"
+        },
+        "HatetoLose": {
+            "Top": "Wisdom +20\n(random) Get Fast Learner status",
+            "Bot": "Stamina +10\nGuts +10\n(random) Get Fast Learner status"
+        },
+        "ErrandsHavePerks": {
+            "Top": "Speed +5\nStamina +5",
+            "Bot": "Energy +5\nWisdom +5"
+        },
+        "Beauteaful": {
+            "Top": "Wisdom +5\nSkill points +15",
+            "Bot": "Speed +10"
+        },
+        "TracenKarutaQueen": {
+            "Top": "Speed +10\nWisdom +5",
+            "Bot": "Competitive Spirit \u25cb hint +1"
+        },
+        "InSearchofRefreshment": {
+            "Top": "Mood -1\nGuts +25",
+            "Bot": "Mood -1\nWisdom +25"
+        },
+        "TogetherforTea": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "YamatoNadeshiko": {
+            "Top": "Power +5\nWisdom +5",
+            "Bot": "Speed +10"
+        },
+        "ChildhoodsApart": {
+            "Top": "Guts +10",
+            "Bot": "Stamina +10"
+        },
+        "NadeshikoGal": {
+            "Top": "Power +10",
+            "Mid": "Wisdom +10",
+            "Bot": "Speed +10"
+        },
+        "ChildhoodDream": {
+            "Top": "Speed +5\nGuts +5",
+            "Bot": "Stamina +5\nWisdom +5"
+        },
+        "FlowerVase": {
+            "Top": "Guts +5\nWisdom +5",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "105201": {
+        "TheRacewearILove": {
+            "Top": "Speed +20",
+            "Bot": "Power +20"
+        },
+        "PairInterview": {
+            "Top": "Power +20",
+            "Bot": "Stamina +20"
+        },
+        "TugofWarTournament": {
+            "Top": "Guts +20\n(random) Get Hot Topic status",
+            "Bot": "Speed +20\n(random) Get Hot Topic status"
+        },
+        "ArmWrestlingContest": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "LookingforSomethingImportant": {
+            "Top": "Energy -10\nGuts +20",
+            "Bot": "Stamina +10"
+        },
+        "SandTraining": {
+            "Top": "Guts +10\nSkill points +15",
+            "Bot": "Energy +15"
+        },
+        "TheFinalBossSpe": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "ALittleDetour": {
+            "Top": "Skill points +30",
+            "Bot": "Stamina +10"
+        },
+        "ParksAreFun": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "SecretDayOffPlan": {
+            "Top": "Speed +10",
+            "Mid": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "SoCool": {
+            "Top": "Skill points +30",
+            "Bot": "Wisdom +10"
+        },
+        "ForgottoEat": {
+            "Top": "Guts +10",
+            "Bot": "Stamina +10"
+        },
+        "AftertheArimaKinenWayWayBetter": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Speed +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Guts +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "106101": {
+        "TheOutfitThatSuitsMeMost": {
+            "Top": "Speed +10\nGuts +10",
+            "Bot": "Power +20"
+        },
+        "RunningIsntEverything": {
+            "Top": "Stamina +20",
+            "Bot": "Speed +10\nPower +10"
+        },
+        "MannersAreCommonSense": {
+            "Top": "Guts +20\n(random) Get Practice Perfect \u25cb status",
+            "Bot": "Stamina +10\nWisdom +10\n(random) Get Practice Perfect \u25cb status"
+        },
+        "MoviesAreFullofLearningOpportunities": {
+            "Top": "Speed +5\nGuts +5",
+            "Bot": "Stamina +10"
+        },
+        "TheKingKnowsNoExhaustion": {
+            "Top": "Energy +5\n(random) Mood +1",
+            "Bot": "Power +10"
+        },
+        "FirstRateinStudiesToo": {
+            "Top": "Wisdom +10\nSkill points +15",
+            "Bot": "Outer Swell hint +1"
+        },
+        "AfterSchoolSoda": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "ThreeHeadsAreBetterthanOne": {
+            "Top": "Wisdom +10",
+            "Bot": "Stamina +10"
+        },
+        "SweetToothTemptation": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "FirstRateSpot": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "FirstRateHarvest": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "FirstRateTerms": {
+            "Top": "Power +10",
+            "Mid": "Wisdom +10",
+            "Bot": "Guts +10"
+        },
+        "CrowdsAreNoProblem": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "BreakingCurfewisSecondRate": {
+            "Top": "Guts +5\nWisdom +5",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Guts +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100401": {
+        "Trendsetter": {
+            "Top": "Speed +10\nWisdom +10",
+            "Bot": "Power +20"
+        },
+        "SewingStar": {
+            "Top": "Guts +20",
+            "Bot": "Stamina +10\nPower +10"
+        },
+        "MyFavoriteThings": {
+            "Top": "Speed +20\n(random) Get Fast Learner status",
+            "Bot": "Stamina +10\nGuts +10\n(random) Get Fast Learner status"
+        },
+        "HotRod": {
+            "Top": "Speed +10",
+            "Bot": "Wisdom +10"
+        },
+        "LetsPlay": {
+            "Top": "Energy +10",
+            "Bot": "Energy -5\nPower +10\nGuts +5"
+        },
+        "ALadysStyle": {
+            "Top": "Speed +5\nSkill points +10\nMood +1",
+            "Bot": "Huge Lead hint +1"
+        },
+        "LetsCook": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "TheRoadtoaRadVictory": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "DowntoDance": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "NostalgiaFever": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "TheSecrettoSupportingEachOther": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "EvenRoleModelsGetLonely": {
+            "Top": "Stamina +5\nGuts +5",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "TaketheWheel": {
+            "Top": "Wisdom +10",
+            "Mid": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "MeetingNewPeopleIsTrendy": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "TheFunNeverStops": {
+            "Top": "Speed +5\nWisdom +5",
+            "Bot": "Stamina +5\nPower +5"
+        },
+        "FukushimainSummer": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Speed +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Speed +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "105601": {
+        "RoomoftheChosenOnes": {
+            "Top": "Guts +20",
+            "Bot": "Speed +20"
+        },
+        "BetterFortuneLuckyTelephone": {
+            "Top": "Stamina +10\nWisdom +10",
+            "Bot": "Power +20"
+        },
+        "UndertheMeteorShower": {
+            "Top": "Speed +10\nPower +10\n(random) Get Charming \u25cb status",
+            "Bot": "Stamina +10\nGuts +10\n(random) Get Charming \u25cb status"
+        },
+        "CursedCamera": {
+            "Top": "Wisdom +10",
+            "Bot": "Skill points +30"
+        },
+        "ManhattansDream": {
+            "Top": "Hesitant Front Runners hint +1",
+            "Bot": "Stamina +10"
+        },
+        "PrettyGunslingers": {
+            "Top": "Skill points +15\nMood +1",
+            "Bot": "Power +10"
+        },
+        "WhichOneistheLuckyCard": {},
+        "SevenGodsofFortuneFineFoodTour": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "FukukitarusProtectionagainstMisfortune": {
+            "Top": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "PunchinaPinch": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +5\nWisdom +5"
+        },
+        "FukukitarusUniqueGoodLuckSpell": {
+            "Top": "Speed +5\nGuts +5",
+            "Mid": "Stamina +5\nPower +5",
+            "Bot": "Wisdom +10"
+        },
+        "TakingthePlunge": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "ShrineVisit": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "102401": {
+        "MayasThrillingTestofCourage": {
+            "Top": "Power +20",
+            "Bot": "Guts +20"
+        },
+        "SweetFeelingsforYou": {
+            "Top": "Stamina +20",
+            "Bot": "Wisdom +20"
+        },
+        "MayanoTakesOff": {
+            "Top": "Speed +20\n(random) Get Charming \u25cb status",
+            "Bot": "Stamina +20\n(random) Get Charming \u25cb status"
+        },
+        "MayaWillTeachYou": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Wisdom +10"
+        },
+        "TipsfromaTopModel": {
+            "Top": "Energy -10\nStamina +20",
+            "Bot": "Speed +10"
+        },
+        "MayasRaceClass": {
+            "Top": "Stamina +10\nSkill points +15",
+            "Bot": "Straightaway Adept hint +1"
+        },
+        "HeartyChanko": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "MayasExcitingLivestream": {
+            "Top": "Stamina +5\nPower +5",
+            "Bot": "Guts +10"
+        },
+        "MayasEuphoricLivestream": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "MayasTwinklyDetermination": {
+            "Top": "Speed +5\nStamina +5",
+            "Mid": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "MayasSpecialSomeone": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "WishonaStar": {
+            "Top": "Wisdom +10",
+            "Bot": "Speed +10"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Stamina +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101301": {
+        "ResolveandDuty": {
+            "Top": "Speed +10\nWisdom +10",
+            "Bot": "Power +20"
+        },
+        "LateNightFanserviceTraining": {
+            "Top": "Guts +20",
+            "Bot": "Speed +20"
+        },
+        "Elegance": {
+            "Top": "Stamina +10\nPower +10\n(random) Get Practice Perfect \u25cb status",
+            "Bot": "Wisdom +20\n(random) Get Practice Perfect \u25cb status"
+        },
+        "QueenoftheIsland": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "ItsCalledaSeaPineapple": {
+            "Top": "Skill points +30",
+            "Bot": "Stamina +10"
+        },
+        "CookingUpMemories": {
+            "Top": "Energy +15",
+            "Bot": "Early Lead hint +1"
+        },
+        "TheAllureofRacecourseFood": {
+            "Top": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status",
+            "Bot": "Guts +15\nSkill points +5"
+        },
+        "AttackoftheChestnutFeast": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "TwoTicketsfortheSilverScreen": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +5\nSkill points +15"
+        },
+        "AnExcitedYoungLady": {
+            "Top": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "EndlessKingdom": {
+            "Top": "Stamina +10",
+            "Mid": "Wisdom +10",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "BargainFind": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "ThreeRamenBowlsWorthofTemptation": {
+            "Top": "Skill points +30",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "AutumnCongratulations": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Stamina +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "102701": {
+        "MySignatureRacewear": {
+            "Top": "Guts +20",
+            "Bot": "Speed +20"
+        },
+        "HeartPoundingAquarium": {
+            "Top": "Power +10\nWisdom +10",
+            "Bot": "Stamina +10\nWisdom +10"
+        },
+        "RefreshinglyReal": {
+            "Top": "Stamina +20\n(random) Get Hot Topic status",
+            "Bot": "Power +20\n(random) Get Hot Topic status"
+        },
+        "MuscleJealousy": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "ThePonyGirlandtheWolfPrince": {
+            "Top": "Energy +5\nStamina +5",
+            "Bot": "Energy +5\nSpeed +5"
+        },
+        "RealGains": {
+            "Top": "Power +10\nSkill points +15",
+            "Bot": "Wet Conditions \u25cb hint +1"
+        },
+        "RestDay": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "NerveRackingRestTime": {
+            "Top": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "FlushwithFeelings": {
+            "Top": "Wisdom +10",
+            "Bot": "Speed +10"
+        },
+        "WithRelaxationandTrustComes": {
+            "Top": "Speed +10",
+            "Mid": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "RyantotheRescue": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "TheLittleFansoftheUmadol": {
+            "Top": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "102601": {
+        "TrailofLight": {
+            "Top": "Speed +20",
+            "Bot": "Power +20"
+        },
+        "SmilesAreContagious": {
+            "Top": "Stamina +20",
+            "Bot": "Guts +20"
+        },
+        "WhotoCountOn": {
+            "Top": "Wisdom +20\n(random) Get Hot Topic status",
+            "Bot": "Power +20\n(random) Get Hot Topic status"
+        },
+        "OperationExecuteOrders": {
+            "Top": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "OperationExtraClasses": {
+            "Top": "Energy +10\nMood +1",
+            "Bot": "Wisdom +10"
+        },
+        "OperationExcursionTrouble": {
+            "Top": "Stamina +10\nSkill points +15",
+            "Bot": "Wet Conditions \u25cb hint +1"
+        },
+        "BrutalTraining": {
+            "Top": "Energy -10\nPower +5/+20\nSkill points +5/+10",
+            "Bot": "Energy +5"
+        },
+        "ThePerfectDessert": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "LetsMakeMemories": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "BourbonsChallenge": {
+            "Top": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "YoureIrreplaceabletoMe": {
+            "Top": "Stamina +10",
+            "Mid": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "OperationDanceFever": {
+            "Top": "Stamina +5\nGuts +5",
+            "Bot": "Stamina +5\nWisdom +5"
+        },
+        "OperationFestivalFun": {
+            "Top": "Power +10",
+            "Bot": "Stamina +5\nGuts +5"
+        },
+        "AftertheJapaneseDerbyTheSecondCrown": {},
+        "AftertheKikukaShoTripleCrownChampion": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Skill points +20",
+            "Bot": "Stamina +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "106001": {
+        "NatureandHerTiredTrainer": {
+            "Top": "Power +20",
+            "Bot": "Stamina +20"
+        },
+        "BittersweetSparkle": {
+            "Top": "Power +20",
+            "Bot": "Speed +20"
+        },
+        "FestiveColors": {
+            "Top": "Guts +20\n(random) Get Charming \u25cb status",
+            "Bot": "Stamina +20\n(random) Get Charming \u25cb status"
+        },
+        "RainyDayFun": {
+            "Top": "Wisdom +10",
+            "Bot": "Energy -10\nStamina +10\nGuts +10"
+        },
+        "NotMyStyle": {
+            "Top": "Energy +5\nMood +1",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "WhirlwindAdvice": {
+            "Top": "Studious hint +1",
+            "Bot": "Speed +5\nStamina +5\nPower +5"
+        },
+        "ALittleCantHurt": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "APhoneCallfromMom": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "OnceinaWhile": {
+            "Top": "Stamina +5\nGuts +5",
+            "Bot": "Stamina +5\nPower +5"
+        },
+        "BittersweetTwilight": {
+            "Top": "Speed +10",
+            "Mid": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "SnapshotofEmotions": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "LetsWatchtheFish": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "VeryMeResults": {},
+        "AftertheSatsukiShoAnUnsatisfyingVictory": {},
+        "AftertheSatsukiShoStillCantCatchUp": {},
+        "AftertheJapaneseDerbyNoMatterWhat": {},
+        "AftertheJapaneseDerbyTheSpotlight": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100601": {
+        "PinnedHopes": {
+            "Top": "Stamina +10\nPower +10",
+            "Bot": "Wisdom +20"
+        },
+        "OguritheForestGuide": {
+            "Top": "Speed +20",
+            "Bot": "Power +20"
+        },
+        "BetterThanaPlushie": {
+            "Top": "Guts +20\n(random) Get Hot Topic status",
+            "Bot": "Stamina +20\n(random) Get Hot Topic status"
+        },
+        "LostUmamusume": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "FieldWorkout": {
+            "Top": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "RunningonFull": {
+            "Top": "Energy +10\nSkill points +15",
+            "Bot": "Nakayama Racecourse \u25cb hint +1"
+        },
+        "OgurisGluttonyChampionship": {
+            "Top": "Randomly either\nEnergy +30\nPower +10\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status",
+            "Bot": "Energy +10\nPower +5\nSkill points +5"
+        },
+        "BottomlessPit": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "OguriMakesaResolution": {
+            "Top": "Speed +5\nWisdom +5",
+            "Bot": "Stamina +5\nGuts +5"
+        },
+        "OguriPerseveres": {
+            "Top": "Guts +10",
+            "Bot": "Power +10"
+        },
+        "OguriMatures": {
+            "Top": "Wisdom +10",
+            "Mid": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "SomethingSmellsGood": {
+            "Top": "Speed +10",
+            "Bot": "Guts +10"
+        },
+        "HighLevelRival": {
+            "Top": "Speed +5\nStamina +5",
+            "Bot": "Power +5\nWisdom +5"
+        },
+        "AttheTennoShoSpring": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "103001": {
+        "AmIEnough": {
+            "Top": "Guts +20",
+            "Bot": "Power +20"
+        },
+        "SweetLivelyJoy": {
+            "Top": "Speed +10\nStamina +10",
+            "Bot": "Wisdom +20"
+        },
+        "IAmEnough": {
+            "Top": "Guts +10\nWisdom +10\n(random) Get Charming \u25cb status",
+            "Bot": "Stamina +10\nPower +10\n(random) Get Charming \u25cb status"
+        },
+        "TrainingInspiration": {
+            "Top": "Energy -10\nGuts +20",
+            "Bot": "Energy +5\nSkill points +15"
+        },
+        "WonderfulNewWorlds": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "LookingontheBrightSide": {
+            "Top": "Stamina +5\nGuts +10",
+            "Bot": "Firm Conditions \u25cb hint +1"
+        },
+        "APageaboutApples": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "EvenWhentheLadybugsAreGone": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "EvenWhenCloudsCovertheSky": {
+            "Top": "Speed +5\nPower +5",
+            "Bot": "Guts +10"
+        },
+        "MySun": {
+            "Top": "Guts +5\nWisdom +5",
+            "Mid": "Speed +5\nPower +5",
+            "Bot": "Stamina +10"
+        },
+        "IveGotThis": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "APageaboutSunsets": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Stamina +5\nWisdom +5"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Guts +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "104101": {
+        "BakushinforLove": {
+            "Top": "Stamina +10\nWisdom +10",
+            "Bot": "Guts +20"
+        },
+        "ADayWithoutaClassRep": {
+            "Top": "Speed +20",
+            "Bot": "Power +20"
+        },
+        "BakushininSignatureRacewear": {
+            "Top": "Power +10\nGuts +10\n(random) Get Hot Topic status",
+            "Bot": "Wisdom +20\n(random) Get Hot Topic status"
+        },
+        "TheBakushinBook": {
+            "Top": "Wisdom +10",
+            "Bot": "Stamina +10"
+        },
+        "TheVoicesoftheStudents": {
+            "Top": "Energy -10\nStamina +10\nPower +10",
+            "Bot": "Speed +10"
+        },
+        "SolvingRiddlesBakushinStyle": {
+            "Top": "Guts +10\nSkill points +15",
+            "Bot": "Nakayama Racecourse \u25cb hint +1"
+        },
+        "BakushinClass": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "BakushiningwithaClassmate": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "TheBestBakushin": {
+            "Top": "Wisdom +10",
+            "Bot": "Stamina +5\nGuts +5"
+        },
+        "BakushinNowandForever": {
+            "Top": "Speed +10",
+            "Mid": "Guts +5\nWisdom +5",
+            "Bot": "Power +10"
+        },
+        "TogetherwithSomeoneImportant": {
+            "Top": "Guts +10",
+            "Bot": "Speed +5\nStamina +5"
+        },
+        "TheSpeedKing": {
+            "Top": "Power +5\nWisdom +5",
+            "Bot": "Stamina +10"
+        },
+        "AftertheSprintersSSuccessiveWins": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Speed +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100201": {
+        "TheColoroftheLandscape": {
+            "Top": "Guts +20",
+            "Bot": "Power +20"
+        },
+        "HobbiesandTalents": {
+            "Top": "Stamina +20",
+            "Bot": "Speed +10\nWisdom +10"
+        },
+        "UmadolSpecialClass": {
+            "Top": "Speed +10\nPower +10\n(random) Get Hot Topic status",
+            "Bot": "Guts +10\nWisdom +10\n(random) Get Hot Topic status"
+        },
+        "TeachingSuzukasStyle": {
+            "Top": "Speed +10",
+            "Bot": "Wisdom +10"
+        },
+        "PartyTime": {
+            "Top": "Energy +10",
+            "Bot": "Stamina +5\nPower +5"
+        },
+        "OnMyHeels": {
+            "Top": "Speed +5\nSkill points +15",
+            "Bot": "Left-Handed \u25cb hint +1"
+        },
+        "WhiteTemptation": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "MyLittleSnowscape": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "ToMakeYouHappy": {
+            "Top": "Power +10",
+            "Bot": "Speed +5\nGuts +5"
+        },
+        "OurLittleSnowscape": {
+            "Top": "Stamina +10",
+            "Mid": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "HowtoSpendaRainyDay": {
+            "Top": "Guts +10",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "AreTheyCompatible": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Stamina +10"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Wisdom +10",
+            "Bot": "Guts +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Speed +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100101": {
+        "HowShouldIPose": {
+            "Top": "Power +20",
+            "Bot": "Skill points +40"
+        },
+        "WearYourHeartonYourSleeve": {
+            "Top": "Stamina +20",
+            "Bot": "Guts +20"
+        },
+        "TodayandTomorrowToo": {
+            "Top": "Speed +20\n(random) Get Hot Topic status",
+            "Bot": "Wisdom +20\n(random) Get Hot Topic status"
+        },
+        "ABeautifulDayforTennis": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "KaraokeConnoisseur": {
+            "Top": "Energy +10",
+            "Bot": "Power +10"
+        },
+        "EarlyAfternoonPayback": {
+            "Top": "Energy +5\nWisdom +5",
+            "Bot": "Pace Strategy hint +1"
+        },
+        "PuttingItAwayattheCafeteria": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "BecauseItsSpecial": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "APlaceIWanttoTakeYou": {
+            "Top": "Wisdom +10",
+            "Bot": "Stamina +10"
+        },
+        "SomeoneIRespect": {
+            "Top": "Skill points +30",
+            "Mid": "Stamina +5\nGuts +5",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "JustaLittleMore": {
+            "Top": "Homestretch Haste hint +1",
+            "Bot": "Corner Adept \u25cb hint +1"
+        },
+        "ResearchFanatic": {
+            "Top": "Tokyo Racecourse \u25cb hint +1",
+            "Bot": "Nakayama Racecourse \u25cb hint +1"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Stamina +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Stamina +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "104501": {
+        "ASelfSatisfyingWish": {
+            "Top": "Power +20",
+            "Bot": "Stamina +20"
+        },
+        "FillLifewithLove": {
+            "Top": "Randomly either\nSpeed +10\nStamina +10\nor\nWisdom +20",
+            "Bot": "Wisdom +20"
+        },
+        "PatienceIsKey": {
+            "Top": "Guts +20\n(random) Get Hot Topic status",
+            "Bot": "Stamina +10\nPower +10\n(random) Get Hot Topic status"
+        },
+        "OneDayExperienceCeramicsClass": {
+            "Top": "Speed +5\nWisdom +5",
+            "Bot": "Stamina +10"
+        },
+        "FindtheLostChild": {
+            "Top": "Energy -10\nStamina +10\nPower +10",
+            "Bot": "Wisdom +10"
+        },
+        "ADangerousTreat": {
+            "Top": "Guts +10\nSkill points +15",
+            "Bot": "Corner Recovery \u25cb hint +1"
+        },
+        "SweetNighttimeTemptation": {
+            "Top": "Energy +30\nSpeed +10\nSkill points +10\n(random) Mood -1\n(random) Get Slow Metabolism status",
+            "Bot": "Energy +10\nSpeed +5\nSkill points +5"
+        },
+        "ForMyFriends": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "IsRelaxingBeingSpoiled": {
+            "Top": "Stamina +10",
+            "Bot": "Wisdom +10"
+        },
+        "DispelYourAnxieties": {
+            "Top": "Power +10",
+            "Bot": "Speed +5\nGuts +5"
+        },
+        "LetsShare": {
+            "Top": "Stamina +10",
+            "Mid": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "RoughMassage": {
+            "Top": "Guts +10",
+            "Bot": "Speed +5\nWisdom +5"
+        },
+        "StargazingisBetterTogether": {
+            "Top": "Power +5\nGuts +5",
+            "Bot": "Stamina +10"
+        },
+        "AftertheSatsukiShoASpringMiracle": {},
+        "AftertheJapaneseDerbyASuperUmamusumeFeat": {},
+        "AftertheKikukaShoTriumphofBonds": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Stamina +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101701": {
+        "MidwayReflection": {
+            "Top": "Speed +20",
+            "Bot": "Power +20"
+        },
+        "TheSmilingEmperorsNewClothes": {
+            "Top": "Wisdom +20",
+            "Bot": "Guts +20"
+        },
+        "TheDistantViewfromtheEndoftheRoad": {
+            "Top": "Stamina +20\n(random) Get Hot Topic status",
+            "Bot": "Guts +20\n(random) Get Hot Topic status"
+        },
+        "ThoseWhoMarchForth": {
+            "Top": "Speed +5\nPower +5",
+            "Bot": "Stamina +5\nGuts +5"
+        },
+        "TheEmperorsSocialStudies": {
+            "Top": "Energy -10\nStamina +10\nPower +10",
+            "Bot": "Wisdom +5\nSkill points +15"
+        },
+        "TheEmperorsSpareTime": {
+            "Top": "Wisdom +10\nSkill points +15",
+            "Bot": "Rainy Days \u25cb hint +1"
+        },
+        "AtAnyTime": {
+            "Top": "Energy -10\nGuts +20\nYayoi Akikawa bond +10",
+            "Bot": "Energy +10"
+        },
+        "SuddenKindness": {
+            "Top": "Energy -10\nStamina +20\nYayoi Akikawa bond +10",
+            "Bot": "Energy +10"
+        },
+        "AsGoodAsMyWord": {
+            "Top": "Energy -10\nPower +20\nYayoi Akikawa bond +10",
+            "Bot": "Energy +10"
+        },
+        "TheEmperorsSatiation": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "BirdsofaFeather": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "WellEarnedRespect": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "AClearandBeautifulNight": {
+            "Top": "Speed +10",
+            "Mid": "Wisdom +10",
+            "Bot": "Stamina +10"
+        },
+        "TheEmperorsDailyRoutine": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "TheEmperorsPath": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "AftertheKikukaShoThreeCrownsAttained": {},
+        "SevenCrownsAttained": {},
+        "CurrentofSuccess": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Wisdom +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101001": {
+        "QuickDrawShowdown": {
+            "Top": "Energy +10\nSpeed +10",
+            "Bot": "Energy +10\nWisdom +10"
+        },
+        "MustWinMatch": {
+            "Top": "Wisdom +20",
+            "Bot": "Stamina +20"
+        },
+        "TotheTop": {
+            "Top": "Power +10\nGuts +10\n(random) Get Fast Learner status",
+            "Bot": "Speed +10\nWisdom +10\n(random) Get Fast Learner status"
+        },
+        "HideandSeek": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "EmbracingGuidance": {
+            "Top": "Power +10",
+            "Bot": "Energy +10"
+        },
+        "HarvestFestival": {
+            "Top": "Power +10\nSkill points +15",
+            "Bot": "Prepared to Pass hint +1"
+        },
+        "SerialRiddler": {
+            "Top": "Randomly either\nMood +1\nStamina +5\nPower +10\nor\nMood -1",
+            "Bot": "Wisdom +10"
+        },
+        "TasteofHome": {
+            "Top": "Randomly either\nMood +1\nSpeed +10\nPower +5\nor\nMood -1",
+            "Bot": "Wisdom +10"
+        },
+        "MeatyHeaven": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "RainyPower": {
+            "Top": "Power +10",
+            "Bot": "Skill points +30"
+        },
+        "RainyChoice": {
+            "Top": "Speed +5\nGuts +5",
+            "Bot": "Stamina +5\nWisdom +5"
+        },
+        "RainyRescue": {
+            "Top": "Skill points +30",
+            "Mid": "Power +5\nWisdom +5",
+            "Bot": "Speed +5\nGuts +5"
+        },
+        "LetsPatrol": {
+            "Top": "Power +10",
+            "Bot": "Energy +10"
+        },
+        "GoingHomeTogether": {
+            "Top": "Mood +1\nSpeed +5",
+            "Bot": "Mood +1\nStamina +5"
+        },
+        "SilenceSuzukaAwakening": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Power +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Speed +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "101501": {
+        "FitforaKing": {
+            "Top": "Wisdom +20",
+            "Bot": "Power +20"
+        },
+        "ForMyAdmirer": {
+            "Top": "Stamina +10\nGuts +10",
+            "Bot": "Speed +20"
+        },
+        "StrengthofWill": {
+            "Top": "Wisdom +20\n(random) Get Fast Learner status",
+            "Bot": "Speed +10\nPower +10\n(random) Speed +20\n(random) Get Fast Learner status"
+        },
+        "FantasticVoyeur": {
+            "Top": "Power +10",
+            "Bot": "Wisdom +10"
+        },
+        "BlindingBeauty": {
+            "Top": "Energy -10\nPower +20",
+            "Bot": "Speed +10"
+        },
+        "BringMeYourFinest": {
+            "Top": "Speed +10\nSkill points +15",
+            "Bot": "Non-Standard Distance \u25cb hint +1"
+        },
+        "BattleofKingsTheGreatRamenWar": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "ThePrincessinPajamas": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "WhattheMirrorReflects": {
+            "Top": "Wisdom +10",
+            "Bot": "Guts +10"
+        },
+        "MyRadianceisYours": {
+            "Top": "Power +10",
+            "Mid": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "MaintainingMagnificence": {
+            "Top": "Speed +10",
+            "Bot": "Wisdom +10"
+        },
+        "EveningOperaOTheater": {
+            "Top": "Power +10",
+            "Bot": "Energy +10"
+        },
+        "SeniorAutumnTripleCrownAchieved": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Power +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100301": {
+        "GoodLuckCharm": {
+            "Top": "Stamina +20",
+            "Bot": "Wisdom +20"
+        },
+        "SelfishTeioandaNostalgicView": {
+            "Top": "Guts +20",
+            "Bot": "Speed +10\nPower +10"
+        },
+        "RacewearLikePrez": {
+            "Top": "Speed +10\nWisdom +10\n(random) Get Hot Topic status",
+            "Bot": "Stamina +10\nGuts +10\n(random) Get Hot Topic status"
+        },
+        "EmpressvsMonarch": {
+            "Top": "Guts +10",
+            "Bot": "Skill points +30"
+        },
+        "CupcakesforAll": {
+            "Top": "Energy +5\nMood +1",
+            "Bot": "Speed +5\nPower +5"
+        },
+        "TeiosWarriorTraining": {
+            "Top": "Guts +10\nSkill points +15",
+            "Bot": "Prepared to Pass hint +1"
+        },
+        "KaraokePower": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "TeioanUmadol": {
+            "Top": "Power +10",
+            "Bot": "Speed +10"
+        },
+        "SecrettoStrength": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "IGotPraised": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "IGotScolded": {
+            "Top": "Wisdom +10",
+            "Bot": "Power +5\nGuts +5"
+        },
+        "IFiguredItOut": {
+            "Top": "Speed +5\nStamina +5",
+            "Mid": "Guts +5\nWisdom +5",
+            "Bot": "Power +10"
+        },
+        "GrownUpTime": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "PunnyPrez": {
+            "Top": "Stamina +5\nPower +5",
+            "Bot": "Speed +10"
+        },
+        "AftertheKikukaShoTripleCrownChampion": {},
+        "ASpringtimeCelebration": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Stamina +10",
+            "Bot": "Power +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Guts +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "100801": {
+        "VintageStyle": {
+            "Top": "Power +20",
+            "Bot": "Stamina +20"
+        },
+        "MakingsofaFriend": {
+            "Top": "Speed +20\n(random) Get Practice Perfect \u25cb status",
+            "Bot": "Guts +20"
+        },
+        "HotandCool": {
+            "Top": "Speed +20\n(random) Get Practice Perfect \u25cb status",
+            "Bot": "Speed +10\nPower +10\n(random) Get Practice Perfect \u25cb status"
+        },
+        "LikeaKid": {
+            "Top": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "ChallengingFate": {
+            "Top": "Stamina +10",
+            "Bot": "Speed +10"
+        },
+        "ShowdownbytheRiver": {
+            "Top": "Wisdom +10\nSkill points +15",
+            "Bot": "Shifting Gears hint +1"
+        },
+        "AwkwardHonesty": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "TheStandardsofCoolness": {
+            "Top": "Wisdom +10",
+            "Bot": "Guts +10"
+        },
+        "RingOutPassionateSound": {
+            "Top": "Speed +10",
+            "Bot": "Stamina +10"
+        },
+        "TheWayofCool": {
+            "Top": "Power +10",
+            "Mid": "Speed +10",
+            "Bot": "Stamina +5\nGuts +5"
+        },
+        "LetsTakeaLittleDetour": {
+            "Top": "Speed +10",
+            "Bot": "Energy +5\nMood +1"
+        },
+        "SugarandSpice": {
+            "Top": "Energy +5/+10",
+            "Bot": "Power +10"
+        },
+        "AftertheTulipShoPreliminaryVictory": {},
+        "AftertheTulipShoPreliminaryDefeat": {},
+        "AftertheOkaShoRedHotAfterglow": {},
+        "AftertheOkaShoALostLoser": {},
+        "AftertheJapaneseDerbyAMajorAchievement": {},
+        "AftertheJapaneseDerbyTowardsaComeback": {},
+        "AftertheShukaShoDrunkonVictory": {},
+        "AftertheShukaShoBadDreamin": {},
+        "AftertheQueenElizabethIICupTyrannicalQueen": {},
+        "AftertheQueenElizabethIICupTsundereQueen": {},
+        "AftertheArimaKinenHollowVictory": {},
+        "AftertheArimaKinenVeeringoffCourse": {},
+        "AftertheYasudaKinenPedaltotheMetal": {},
+        "AftertheYasudaKinenConsecutiveCelebration": {},
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Stamina +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Speed +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    },
+    "103501": {
+        "FullPowerTesting": {
+            "Top": "Guts +20",
+            "Bot": "Speed +20"
+        },
+        "FullPowerFashion": {
+            "Top": "Stamina +20",
+            "Bot": "Power +10\nGuts +10"
+        },
+        "FullPowerEffort": {
+            "Top": "Speed +10\nWisdom +10\n(random) Get Hot Topic status",
+            "Bot": "Power +20\n(random) Get Hot Topic status"
+        },
+        "RainorShine": {
+            "Top": "Energy -10\nStamina +10\nSkill points +15",
+            "Bot": "Power +10"
+        },
+        "OvercometheToweringObstacle": {
+            "Top": "Mood +1\nGuts +5",
+            "Bot": "Mood +1\nPower +5"
+        },
+        "AFreshPerspective": {
+            "Top": "Speed +10\nSkill points +15",
+            "Bot": "Nimble Navigator hint +1"
+        },
+        "FullPowerEating": {
+            "Top": "Energy +10\nSkill points +5",
+            "Bot": "Randomly either\nEnergy +30\nSkill points +10\nor\nEnergy +30\nSkill points +10\nSpeed -5\nPower +5\nGet Slow Metabolism status"
+        },
+        "PlayoftheThreeKingdoms": {
+            "Top": "Stamina +5\nSkill points +15",
+            "Bot": "Power +5\nSkill points +15"
+        },
+        "FutsalNow": {
+            "Top": "Guts +10",
+            "Bot": "Speed +10"
+        },
+        "TheLastTicket": {
+            "Top": "Guts +10",
+            "Mid": "Speed +10",
+            "Bot": "Power +10"
+        },
+        "ShakeOffYourBlues": {
+            "Top": "Mood +1\nPower +5",
+            "Bot": "Speed +5\nSkill points +15"
+        },
+        "BigGirlsCryToo": {
+            "Top": "Guts +5\nSkill points +15",
+            "Bot": "Mood +1\nPower +5"
+        },
+        "FailedtrainingGetWellSoon": {
+            "Top": "Mood -1\nLast trained stat -5\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -1\nLast trained stat -10\n(random) Get Practice Poor status\nor\nGet Practice Perfect \u25cb status"
+        },
+        "FailedtrainingDontOverdoIt": {
+            "Top": "Energy +10\nMood -2\nLast trained stat -10\n2 random stats -10\n(random) Get Practice Poor status",
+            "Bot": "Randomly either\nMood -3\nLast trained stat -10\n2 random stats -10\nGet Practice Poor status\nor\nEnergy +10\nGet Practice Perfect \u25cb status"
+        },
+        "ExtraTraining": {
+            "Top": "Energy -5\nLast trained stat +5\n(random) Heal a negative status effect\nYayoi Akikawa bond +5",
+            "Bot": "Energy +5"
+        },
+        "AtSummerCampYear": {
+            "Top": "Power +10",
+            "Bot": "Guts +10"
+        },
+        "DanceLesson": {
+            "Top": "Guts +10",
+            "Bot": "Wisdom +10"
+        },
+        "NewYearsResolutions": {
+            "Top": "Guts +10",
+            "Mid": "Energy +20",
+            "Bot": "Skill points +20"
+        },
+        "NewYearsShrineVisit": {
+            "Top": "Energy +30",
+            "Mid": "All stats +5",
+            "Bot": "Skill points +35"
+        },
+        "AcupunctureJustanAcupuncturistNoWorries": {
+            "": "Energy +10"
+        },
+        "Gst": {
+            "Top": "1 random stat +10\nSkill points +45\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +10\nSkill points +45\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "Gndth": {
+            "Top": "1 random stat +8\nSkill points +45\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +45\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "Gthorworse": {
+            "Top": "1 random stat +4\nSkill points +25\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +4\nSkill points +25\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "GGst": {
+            "Top": "1 random stat +8\nSkill points +35\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +8\nSkill points +35\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "GGndth": {
+            "Top": "1 random stat +5\nSkill points +35\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +35\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "GGthorworse": {
+            "Top": "1 random stat +3\nSkill points +20\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +20\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPst": {
+            "Top": "1 random stat +5\nSkill points +30\nEnergy -15\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +5\nSkill points +30\nEnergy -5/-20\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPndth": {
+            "Top": "1 random stat +3\nSkill points +30\nEnergy -20\n(random) Hint for a skill related to the race",
+            "Bot": "1 random stat +3\nSkill points +30\nEnergy -10/-30\n(random) Hint for a skill related to the race"
+        },
+        "OPPreOPthorworse": {
+            "Top": "Skill points +10\nEnergy -25\n(random) Hint for a skill related to the race",
+            "Bot": "Skill points +10\nEnergy -15/-35\n(random) Hint for a skill related to the race"
+        },
+        "ExhilaratingWhataScoop": {
+            "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+            "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+        },
+        "ATrainersKnowledge": {
+            "Top": "Power +10\nEtsuko Otonashi bond +5",
+            "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+        },
+        "BestFootForward": {
+            "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+            "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+        }
+    }
+}
