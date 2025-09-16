@@ -9,10 +9,6 @@ from rapidfuzz import fuzz
 import json
 import questionary
 
-global card_events_filepath
-global uma_events_filepath
-global ocrPath
-
 def get_base_path():
     if getattr(sys, 'frozen', False):
         # Running as PyInstaller exe
@@ -20,19 +16,6 @@ def get_base_path():
     else:
         # Running as normal python script
         return os.path.dirname(os.path.abspath(__file__))
-    
-def loadCfg():
-    global card_events_filepath
-    global uma_events_filepath
-    global ocrPath
-    # Create parser
-    config = configparser.ConfigParser()
-    # Read the ini file
-    config.read("config.ini")
-    # Access values
-    card_events_filepath = os.path.join(get_base_path(), config["app"]["cardEventsPath"]) 
-    uma_events_filepath = os.path.join(get_base_path(), config["app"]["umaEventsPath"])
-    ocrPath = os.path.join(get_base_path(), config["app"]["ocrPath"])
 
 def clearLines(lines):
     for _ in range(lines):
@@ -53,7 +36,14 @@ def is_similar(a, b, threshold=0):
     return score >= threshold, score
 
 def main():
-    loadCfg()
+    # Create parser
+    config = configparser.ConfigParser()
+    # Read the ini file
+    config.read("config.ini")
+    # Access values
+    card_events_filepath = os.path.join(get_base_path(), config["app"]["cardEventsPath"]) 
+    uma_events_filepath = os.path.join(get_base_path(), config["app"]["umaEventsPath"])
+    ocrPath = os.path.join(get_base_path(), config["app"]["ocrPath"])
 
     with open(uma_events_filepath, "r", encoding="utf-8") as f:
         uma_events_data = json.load(f)
@@ -76,13 +66,39 @@ def main():
     while (selected_uma not in choices):
         selected_uma = questionary.autocomplete("Select uma:",choices=choices).ask()
 
-    print("Move your mouse to the TOP-LEFT corner and press Enter...")
-    input()
-    x1, y1 = pyautogui.position()
+    try:
+        # Attempt to read coordinates from INI
+        x1 = config['app'].getint('x1')
+        y1 = config['app'].getint('y1')
+        x2 = config['app'].getint('x2')
+        y2 = config['app'].getint('y2')
+       
+        if None in (x1,y1,x2,y2):
+            raise ValueError("Coordinate is None")
+    except (configparser.NoOptionError, configparser.NoSectionError, ValueError):
+        # If any value is missing or invalid, ask user
+        print("Coordinates not found or invalid, asking for input...")
 
-    print("Move your mouse to the BOTTOM-RIGHT corner and press Enter...")
-    input()
-    x2, y2 = pyautogui.position()
+        print("Move your mouse to the TOP-LEFT corner and press Enter...")
+        input()
+        x1, y1 = pyautogui.position()
+
+        print("Move your mouse to the BOTTOM-RIGHT corner and press Enter...")
+        input()
+        x2, y2 = pyautogui.position()
+
+        # Save the coordinates back to the INI
+        if not config.has_section('app'):
+            config.add_section('app')
+        config.set('app', 'x1', str(x1))
+        config.set('app', 'y1', str(y1))
+        config.set('app', 'x2', str(x2))
+        config.set('app', 'y2', str(y2))
+
+        with open("config.ini", 'w') as f:
+            config.write(f)
+        print("Coordinates saved to INI.")
+
     eventTextRegion = (x1, y1, x2 - x1, y2 - y1)
 
     combined_events_data = uma_events_data[selected_uma] | card_events_data
