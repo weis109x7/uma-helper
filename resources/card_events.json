@@ -1,4 +1,172 @@
 {
+    "ModestlyBoldly": {
+        "Top": "Mood +1\nSpeed +5\nKawakami Princess bond +5",
+        "Bot": "Skill points +10\nTether hint +1\nKawakami Princess bond +5"
+    },
+    "HitItPrincessRoad": {
+        "Top": "Speed +15\nGuts +15\nCenter Stage hint +1\nKawakami Princess bond +5",
+        "Bot": "Energy +25\nSkill points +25"
+    },
+    "PrincessPunch": {
+        "Top": "Guts +10\nKawakami Princess bond +5",
+        "Bot": "Mood +1\nKawakami Princess bond +5"
+    },
+    "PrincessEscape": {
+        "Top": "Energy +10\nKawakami Princess bond +5",
+        "Bot": "Steadfast hint +1\nKawakami Princess bond +5"
+    },
+    "ExhilaratingWhataScoop": {
+        "Top": "Stamina +10\nEtsuko Otonashi bond +5",
+        "Bot": "Guts +10\nEtsuko Otonashi bond +5"
+    },
+    "ATrainersKnowledge": {
+        "Top": "Power +10\nEtsuko Otonashi bond +5",
+        "Bot": "Speed +10\nEtsuko Otonashi bond +5"
+    },
+    "BestFootForward": {
+        "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
+        "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
+    },
+    "LetsGoBuono": {
+        "Top": "Energy +30\nGuts +5\nHishi Akebono bond +5\n(random) Get Slow Metabolism status",
+        "Bot": "Stamina +5\nPower +5\nHishi Akebono bond +5"
+    },
+    "EatUp": {
+        "Top": "Energy +10\nHishi Akebono bond +5",
+        "Bot": "Energy -5\nPower +15\nHishi Akebono bond +5"
+    },
+    "LeaveIttoMe": {
+        "Top": "Stamina +10\nHishi Akebono bond +5",
+        "Bot": "Energy -15\nSprinting Gear hint +2\nHishi Akebono bond +5"
+    },
+    "OneStepForward": {
+        "Top": "Energy -10\nSkill points +15/+45\nMejiro Dober bond +5",
+        "Bot": "Guts +5\nWisdom +5\nMejiro Dober bond +5"
+    },
+    "GiveItaTry": {
+        "Top": "Energy +15\nMejiro Dober bond +5",
+        "Bot": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
+    },
+    "HopeShellLikeIt": {
+        "Top": "Skill points +45\nMejiro Dober bond +5",
+        "Bot": "Unyielding Spirit hint +1\nMejiro Dober bond +5"
+    },
+    "BloomingHope": {
+        "Top": "Randomly either\nStamina +15\nHeal a negative status effect\nSakura Chiyono O bond +5\nor\nEnergy -10\nGuts +15\nSakura Chiyono O bond +5",
+        "Bot": "Energy +10\nMood +1\nSakura Chiyono O bond +5"
+    },
+    "SomedayIllBloom": {
+        "Top": "Randomly either\nEnergy -15\nStamina +20\nSkill points +10\nSpeed Star hint +3\nSakura Chiyono O bond +5\nor\nEnergy -15\nStamina +10\nSkill points +5\nPrepared to Pass hint +3\nSakura Chiyono O bond +5",
+        "Bot": "Speed +5\nStamina +10\nPower +5\nSkill points +30\nSakura Chiyono O bond +5"
+    },
+    "TodaysWordsofWisdom": {
+        "Top": "Energy -10\nPower +20\nSakura Chiyono O bond +5",
+        "Bot": "Energy +5\nSkill points +10\nSakura Chiyono O bond +5"
+    },
+    "UntilIBloom": {
+        "Top": "Energy +5\nStamina +5\nSakura Chiyono O bond +5",
+        "Bot": "Spring Runner \u25cb hint +1\nSakura Chiyono O bond +5"
+    },
+    "AReasonableDietvsanExplosiveDiet": {
+        "Top": "Energy +10\nSkill points +10\nYaeno Muteki bond +5",
+        "Bot": "Energy +10\nWisdom +10\nSkill points +10\nPlaytime's Over! hint +3\nEvent chain ended"
+    },
+    "FirmandPlainYetClosetoVirtue": {
+        "Top": "Speed +10",
+        "Bot": "Mood +1\nPower +5"
+    },
+    "TheWilltoProtect": {
+        "Top": "Stamina +10\nPower +10",
+        "Bot": "Medium Corners \u25cb hint +1"
+    },
+    "FullPowerMuscles": {
+        "Top": "Stamina +5\nSkill points +15\nWinning Ticket bond +5",
+        "Bot": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+    },
+    "FullPowerRacing": {
+        "Top": "Late Surger Corners \u25cb hint +1\nWinning Ticket bond +5",
+        "Bot": "Skill points +30\nWinning Ticket bond +5"
+    },
+    "CozyMemoriesofWankoSoba": {
+        "Top": "Mood +1\nYukino Bijin bond +5",
+        "Bot": "Maximum Energy +4\nYukino Bijin bond +5"
+    },
+    "TheClassRepsIntenseCrashCourse": {
+        "Top": "Mood +1\nPower +5\nYukino Bijin bond +5",
+        "Bot": "Power +3\nGuts +3\nWisdom +3\nYukino Bijin bond +5"
+    },
+    "IWannaWin": {
+        "Top": "Mood +1\nNo Stopping Me! hint +1\nYukino Bijin bond +5",
+        "Bot": "Power +3\nGuts +3\nWisdom +3\nNo Stopping Me! hint +1\nYukino Bijin bond +5"
+    },
+    "ForaSpiffyConcert": {
+        "Top": "Guts +10\nYukino Bijin bond +5",
+        "Bot": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+    },
+    "AimingfortheCitySpots": {
+        "Top": "Energy -10\nMood +1\nGuts +10\nYukino Bijin bond +5",
+        "Bot": "Corner Acceleration \u25cb hint +1\nYukino Bijin bond +5"
+    },
+    "PayingItForward": {
+        "Top": "Energy +10\nMood +1\nKitasan Black bond +5",
+        "Bot": "Speed +5/+10\nStraightaway Adept hint +1/+3\nKitasan Black bond +5"
+    },
+    "AhFriendship": {
+        "Top": "Mood +1\nPower +5\nKitasan Black bond +5",
+        "Bot": "Energy +10\nKitasan Black bond +5"
+    },
+    "AhHomeSweetHome": {
+        "Top": "Speed +5\nPower +10\nKitasan Black bond +5",
+        "Bot": "Get Practice Perfect \u25cb status\nKitasan Black bond +5"
+    },
+    "DiamondFixation": {
+        "Top": "Wisdom +10\nSatono Diamond bond +5",
+        "Bot": "Randomly either\nEnergy +15\nStamina +10\nSatono Diamond bond +5\nor\nMood -1\nGuts +20"
+    },
+    "OnlyforYou": {
+        "Top": "Energy -20\nStamina +30\nIron Will hint +1\nSatono Diamond bond +5",
+        "Bot": "Energy +5\nGuts +5\nIron Will hint +1\nSatono Diamond bond +5"
+    },
+    "ILoveNewThings": {
+        "Top": "Guts +10\nSatono Diamond bond +5",
+        "Bot": "Energy -10\nStamina +20\nSatono Diamond bond +5"
+    },
+    "ILoveComplicatedThings": {
+        "Top": "Stamina +5\nGuts +10\nSatono Diamond bond +5",
+        "Bot": "Hesitant Front Runners hint +1\nSatono Diamond bond +5"
+    },
+    "SeekingUniqueness": {
+        "Top": "Mood +1\nMatikanetannhauser bond +5",
+        "Bot": "Energy +10/+30\nMatikanetannhauser bond +5"
+    },
+    "JustYourTypicalHardWork": {
+        "Top": "Speed +10\nMatikanetannhauser bond +5",
+        "Bot": "Power +10\nMatikanetannhauser bond +5"
+    },
+    "JustATypicalAccident": {
+        "Top": "Stamina +5\nGuts +10\nMatikanetannhauser bond +5",
+        "Bot": "Subdued Front Runners hint +1\nMatikanetannhauser bond +5"
+    },
+    "RunAwaytoFirstBase": {
+        "Top": "Energy -15\nStamina +10\nGuts +10\nMejiro Palmer bond +5",
+        "Bot": "Energy -15\nGuts +10\nWisdom +10\nMejiro Palmer bond +5"
+    },
+    "RunawayRomance": {
+        "Top": "Energy +10\nGuts +5\nWisdom +5\nMejiro Palmer bond +5",
+        "Bot": "Energy +10\nFront Runner Savvy \u25cb hint +1\nMejiro Palmer bond +5"
+    },
+    "OptimisticEscapismNeverGiveUp": {
+        "Top": "Energy -20\nStamina +5\nGuts +5\nVanguard Spirit hint +3 or Keeping the Lead hint +1/+3\nMejiro Palmer bond +5",
+        "Bot": "Energy +10\nLone Wolf hint +1"
+    },
+    "AnInescapableChoice": {
+        "Top": "Energy -15\nGuts +20\nMejiro Palmer bond +5",
+        "Bot": "Power +5\nSkill points +15\nMejiro Palmer bond +5"
+    },
+    "OptimisticEscapism": {
+        "Top": "Guts +15\nMejiro Palmer bond +5",
+        "Bot": "Wet Conditions \u25cb hint +1\nMejiro Palmer bond +5"
+    },
     "ImNotAfraid": {
         "Top": "Randomly either\nSpeed +10\nTwin Turbo bond +5\nor\nEnergy -10\nSpeed +10\nEvent chain ended",
         "Bot": "Energy +20\nEvent chain ended"
@@ -18,18 +186,6 @@
     "ImAllFiredUp": {
         "Top": "Energy +15\nTwin Turbo bond +5",
         "Bot": "Early Lead hint +1\nTwin Turbo bond +5"
-    },
-    "ExhilaratingWhataScoop": {
-        "Top": "Stamina +10\nEtsuko Otonashi bond +5",
-        "Bot": "Guts +10\nEtsuko Otonashi bond +5"
-    },
-    "ATrainersKnowledge": {
-        "Top": "Power +10\nEtsuko Otonashi bond +5",
-        "Bot": "Speed +10\nEtsuko Otonashi bond +5"
-    },
-    "BestFootForward": {
-        "Top": "Energy -10\nPower +20\nGuts +20\nBeeline Burst hint +1",
-        "Bot": "Energy +30\nStamina +20\nBreath of Fresh Air hint +1"
     },
     "HowShouldIRespond": {
         "Top": "Energy +5\nPower +5",
@@ -157,14 +313,6 @@
         "Top": "Guts +15\nInes Fujin bond +5",
         "Bot": "Wisdom +15\nInes Fujin bond +5"
     },
-    "FullPowerMuscles": {
-        "Top": "Stamina +5\nSkill points +15\nWinning Ticket bond +5",
-        "Bot": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
-    },
-    "FullPowerRacing": {
-        "Top": "Late Surger Corners \u25cb hint +1\nWinning Ticket bond +5",
-        "Bot": "Skill points +30\nWinning Ticket bond +5"
-    },
     "VerificationRequired": {
         "Top": "Energy +10\nGuts +5\nAir Shakur bond +5",
         "Bot": "Energy -10\nStamina +5\nGuts +10\nAir Shakur bond +5"
@@ -264,6 +412,59 @@
     "APageAboutCloudyWeather": {
         "Top": "Speed +5\nGuts +5\nRice Shower bond +5",
         "Bot": "Firm Conditions \u25cb hint +1\nRice Shower bond +5"
+    },
+    "NoMoreWordsUseBodyLanguage": {
+        "Top": "Mood +1\nLucky Seven hint +1\nSeeking the Pearl bond +5",
+        "Mid": "Power +10\nGuts +10\nSeeking the Pearl bond +5",
+        "Bot": "Energy +30"
+    },
+    "FullPowerPassion": {
+        "Top": "Energy +10\nMood +1\nSeeking the Pearl bond +5",
+        "Bot": "Power +5\nGuts +5\nSeeking the Pearl bond +5"
+    },
+    "FullPowerThinking": {
+        "Top": "Wisdom +20\nSeeking the Pearl bond +5",
+        "Bot": "Energy -10\nUma Stan hint +3\nSeeking the Pearl bond +5"
+    },
+    "TheBookwormandtheMagicalGirl": {
+        "Top": "Stamina +5\nWisdom +5\nZenno Rob Roy bond +5",
+        "Bot": "Energy +20\nPower +10\nZenno Rob Roy bond +5\nEvent chain ended"
+    },
+    "BookloverQuirks": {
+        "Top": "Speed +5\nWisdom +5\nZenno Rob Roy bond +5",
+        "Bot": "Energy +10\nPower +5\nZenno Rob Roy bond +5"
+    },
+    "ATaleEntrusted": {
+        "Top": "Stamina +10\nWisdom +10\nZenno Rob Roy bond +5",
+        "Bot": "Medium Straightaways \u25cb hint +1\nZenno Rob Roy bond +5"
+    },
+    "IWanttoSayThankYou": {
+        "Top": "Power +5\nStraightaway Adept hint +1\nNishino Flower bond +5",
+        "Bot": "Wisdom +5\nStraightaway Acceleration hint +1\nNishino Flower bond +5"
+    },
+    "ChasingTheirBacks": {
+        "Top": "Energy +5\nWisdom +3\nNice Nature bond +5",
+        "Bot": "Nice Nature bond +20"
+    },
+    "NotlikeMeow": {
+        "Top": "Energy +20\nNice Nature bond +5",
+        "Bot": "Energy +10\nWisdom +5\nNice Nature bond +5"
+    },
+    "DeliciousBurden": {
+        "Top": "Ramp Up hint +1\nNice Nature bond +5",
+        "Bot": "Mood +1\nMaximum Energy +4\nNice Nature bond +5"
+    },
+    "IkunoStyleSupport": {
+        "Top": "Wisdom +15\nFrenzied Front Runners hint +3\nIkuno Dictus bond +5",
+        "Bot": "Wisdom +15\nFrenzied End Closers hint +3\nIkuno Dictus bond +5"
+    },
+    "IkunoStyleFlawlessMethod": {
+        "Top": "Wisdom +10\nIkuno Dictus bond +5",
+        "Bot": "Skill points +30\nIkuno Dictus bond +5"
+    },
+    "IkunoStyleManagement": {
+        "Top": "Stamina +20\nIkuno Dictus bond +5",
+        "Bot": "Trick (Rear) hint +1\nIkuno Dictus bond +5"
     },
     "BFFParty": {
         "Top": "Power +10\nDaitaku Helios bond +5",
@@ -381,14 +582,6 @@
         "Top": "Pace Strategy hint +1\nMejiro Ryan bond +5",
         "Bot": "Energy +30\nMejiro Ryan bond +5"
     },
-    "ForaSpiffyConcert": {
-        "Top": "Guts +10\nYukino Bijin bond +5",
-        "Bot": "Energy -10\nGuts +15\nYukino Bijin bond +5"
-    },
-    "AimingfortheCitySpots": {
-        "Top": "Energy -10\nMood +1\nGuts +10\nYukino Bijin bond +5",
-        "Bot": "Corner Acceleration \u25cb hint +1\nYukino Bijin bond +5"
-    },
     "TheCorrelationbetweenSleepandEfficiency": {
         "Top": "Power +5\nWisdom +5\nAgnes Tachyon bond +5",
         "Bot": "Wisdom +10\nAgnes Tachyon bond +5"
@@ -444,22 +637,6 @@
     "PleaseBuySomeCarrots": {
         "Top": "Energy +10\nWisdom +5\nMeisho Doto bond +5",
         "Bot": "Pace Chaser Corners \u25cb hint +1\nMeisho Doto bond +5"
-    },
-    "GiveItaTry": {
-        "Top": "Energy +15\nMejiro Dober bond +5",
-        "Bot": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
-    },
-    "HopeShellLikeIt": {
-        "Top": "Skill points +45\nMejiro Dober bond +5",
-        "Bot": "Unyielding Spirit hint +1\nMejiro Dober bond +5"
-    },
-    "NotlikeMeow": {
-        "Top": "Energy +20\nNice Nature bond +5",
-        "Bot": "Energy +10\nWisdom +5\nNice Nature bond +5"
-    },
-    "DeliciousBurden": {
-        "Top": "Ramp Up hint +1\nNice Nature bond +5",
-        "Bot": "Mood +1\nMaximum Energy +4\nNice Nature bond +5"
     },
     "YouMaySocializeWithMe": {
         "Top": "Energy -20\nSpeed +10\nPower +10\nWisdom +5\nKing Halo bond +5",
