@@ -10,6 +10,8 @@ from playwright.sync_api import sync_playwright
 global event_data
 global uma_event_data
 global campaignEvents
+
+eventWrapperClass=""
 event_data = {}
 uma_event_data = {}
 campaignEvents={"ExhilaratingWhataScoop","ATrainersKnowledge","BestFootForward"}
@@ -23,70 +25,73 @@ def get_base_path():
         return os.path.dirname(os.path.abspath(__file__))
     
 def addEventToEventJson(page,id):
-    divs = page.locator("div[class*='eventhelper_ewrapper__']")
-    count = divs.count()
-    print(f"Found {count} matching divs")
+    global eventWrapperClass
+
+    if not eventWrapperClass:
+        container = page.locator("div[class*='eventhelper_listgrid_item__']")
+        eventTypeContainer = container.locator('> div')
+        chainEvent = eventTypeContainer.nth(2)
+        eventWrapper = chainEvent.locator('> div').nth(0)
+        eventWrapperClass = eventWrapper.get_attribute("class")
+
+    eventWrappers = page.locator(f"div[class*='{eventWrapperClass}']")
+    count = eventWrappers.count()
+
     # Example: get text content of each
     for i in range(count):
-        wrapper = divs.nth(i)
+        wrapper = eventWrappers.nth(i)
 
         # Get header
-        header = wrapper.locator("[class*='tooltips_ttable_heading__']").text_content()
+        header = wrapper.locator('> div').nth(0).inner_text()
         header = header.strip() if header else "Unknown Header"
         header = re.sub(r'[^a-zA-Z]', '', header)
-        # Get all left and right cells
-        left_cells = wrapper.locator("div[class*='eventhelper_leftcell__']")
-        right_cells = wrapper.locator("div[class*='eventhelper_ecell__']:not([class*='leftcell'])")
+        # get cells
+        cells = wrapper.locator('> div').nth(2)
+        topBotOptions = cells.locator('> div')
+        optionCount = topBotOptions.count()
+        for i in range(optionCount):
+            eachOption = topBotOptions.nth(i)
 
-        left_count = left_cells.count()
-        right_count = right_cells.count()
+            eachOptionLabel = eachOption.locator('> div').nth(0).inner_text()
+            eachOptionResult = eachOption.locator('> div').nth(1).inner_text()
 
-        # Prepare entry in dict
-        if header in event_data:
-            if header not in campaignEvents:
-                print(id)
-                print("DUPLICATE EVENT?????" + header)
-        if header not in event_data:
-            event_data[header] = {}
-        for j in range(min(left_count, right_count)):
-            label = left_cells.nth(j).text_content().strip()
-            label = re.sub(r'[^a-zA-Z]', '', label)
-            value_lines = right_cells.nth(j).locator("div").all_text_contents()
-            value = "\n".join(line.strip() for line in value_lines) if value_lines else right_cells.nth(j).text_content().strip()
-            event_data[header][label] = value
+            if header not in event_data:
+                event_data[header] = {}
+            event_data[header][eachOptionLabel] = eachOptionResult
     return
 
 def addEventToUmaJson(page,id):
-    divs = page.locator("div[class*='eventhelper_ewrapper__']")
-    count = divs.count()
-    print(f"Found {count} matching divs")
+    eventWrappers = page.locator(f"div[class*='{eventWrapperClass}']")
+    count = eventWrappers.count()
+
     # Example: get text content of each
     for i in range(count):
-        wrapper = divs.nth(i)
+        wrapper = eventWrappers.nth(i)
 
         # Get header
-        header = wrapper.locator("[class*='tooltips_ttable_heading__']").text_content()
+        header = wrapper.locator('> div').nth(0).inner_text()
         header = header.strip() if header else "Unknown Header"
         header = re.sub(r'[^a-zA-Z]', '', header)
-        # Get all left and right cells
-        left_cells = wrapper.locator("div[class*='eventhelper_leftcell__']")
-        right_cells = wrapper.locator("div[class*='eventhelper_ecell__']:not([class*='leftcell'])")
+        # get cells
+        cells = wrapper.locator('> div').nth(2)
+        topBotOptions = cells.locator('> div')
+        optionCount = topBotOptions.count()
+        for i in range(optionCount):
+            eachOption = topBotOptions.nth(i)
 
-        left_count = left_cells.count()
-        right_count = right_cells.count()
-
-        # Prepare entry in dict
-        if header in uma_event_data[id]:
-            print("DUPLICATE UMA EVENT????" + header + " id is "+id)
-        if header not in uma_event_data[id]:
-            uma_event_data[id][header] = {}
-        for j in range(min(left_count, right_count)):
-            label = left_cells.nth(j).text_content().strip()
-            label = re.sub(r'[^a-zA-Z]', '', label)
-            value_lines = right_cells.nth(j).locator("div").all_text_contents()
-            value = "\n".join(line.strip() for line in value_lines) if value_lines else right_cells.nth(j).text_content().strip()
-            uma_event_data[id][header][label] = value
+            if eachOption.locator('> div').count()>1:
+                eachOptionLabel = eachOption.locator('> div').nth(0).inner_text()
+                eachOptionResult = eachOption.locator('> div').nth(1).inner_text()
+            else:
+                continue
+            if header not in uma_event_data[id]:
+                uma_event_data[id][header] = {}
+            uma_event_data[id][header][eachOptionLabel] = eachOptionResult
     return
+
+
+
+
 
 def loadCfg():
     # Create parser
@@ -114,7 +119,7 @@ def main():
         page.goto("https://gametora.com/umamusume/training-event-helper")
 
         # set settings
-        page.click("[class*='filters_settings_button__']")
+        page.click('[id$="settings-open"]')
         page.check("#allAtOnceCheckbox")
         page.check("#expandEventsCheckbox")
         page.check("#onlyChoicesCheckbox")
@@ -123,6 +128,11 @@ def main():
         campaign = "URA Finals"
         # set campaign
         page.click("#boxScenario")
+
+        scenarioLocator = page.locator('[class^="tooltips_tooltip_striped__"] img[src^="/images/umamusume/scenarios/"]')
+        scenarioLocator.first.wait_for(state="attached")
+        scenarios = scenarioLocator.all()
+        # print(scenarios)
         page.click(f'xpath=//div[contains(@class, "tooltips_tooltip_striped__")]//div[.//span[text()="{campaign}"]]')
 
         # Find the parent that contains ONLY one div with img src="/images/ui/remove.png"
