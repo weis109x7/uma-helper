@@ -9,12 +9,10 @@ from playwright.sync_api import sync_playwright
 
 global event_data
 global uma_event_data
-global campaignEvents
 
 eventWrapperClass=""
 event_data = {}
 uma_event_data = {}
-campaignEvents={"ExhilaratingWhataScoop","ATrainersKnowledge","BestFootForward"}
 
 def get_base_path():
     if getattr(sys, 'frozen', False):
@@ -125,15 +123,15 @@ def main():
         page.check("#onlyChoicesCheckbox")
         page.click("[class*='filters_confirm_button__']")
         
-        campaign = "URA Finals"
+        # campaign = "URA Finals"
         # set campaign
         page.click("#boxScenario")
-
         scenarioLocator = page.locator('[class^="tooltips_tooltip_striped__"] img[src^="/images/umamusume/scenarios/"]')
         scenarioLocator.first.wait_for(state="attached")
         scenarios = scenarioLocator.all()
         # print(scenarios)
-        page.click(f'xpath=//div[contains(@class, "tooltips_tooltip_striped__")]//div[.//span[text()="{campaign}"]]')
+        # scenarios[1].click()
+        # page.click(f'xpath=//div[contains(@class, "tooltips_tooltip_striped__")]//div[.//span[text()="{campaign}"]]')
 
         # Find the parent that contains ONLY one div with img src="/images/ui/remove.png"
         only_img_parent = page.locator("div:has(> span > img[src='/images/ui/remove.png']):not(:has(div:has-text('Remove')))")
@@ -168,6 +166,16 @@ def main():
             page.click("button:has-text('Yes')")
 
 
+        page.click("#boxSupport1")
+        page.click(f'xpath=//*[@id="{id}"]')
+        page.click("#boxScenario")
+        for scenario in scenarios:
+            scenario.click()
+            addEventToEventJson(page,id)
+
+        page.click("button:has-text('Delete')")
+        page.click("button:has-text('Yes')")
+        
         for id in umaIds:
             
             page.click("#boxChar")
